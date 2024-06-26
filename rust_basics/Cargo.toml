@@ -1,0 +1,8 @@
+[package]
+name = "rust_basics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = "0.11"
+regex = "1.5"
